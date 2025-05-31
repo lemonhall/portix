@@ -1,3 +1,5 @@
+![Portix项目截图](screen_shot.png)
+
 # Portix - Live2D风格角色动画项目
 
 ![Godot Engine](https://img.shields.io/badge/Godot-4.4-blue.svg)
@@ -142,4 +144,4 @@ $AnimatedSprite2D.speed_scale = 0.5
 
 ---
 
-⭐ 如果这个项目对您有帮助，请给个Star支持一下！ 
+⭐ 如果这个项目对您有帮助，请给个Star支持一下！
