@@ -1,4 +1,4 @@
-[gd_scene load_steps=40 format=3 uid="uid://dcvfqiv51wu6m"]
+[gd_scene load_steps=59 format=3 uid="uid://dcvfqiv51wu6m"]
 
 [ext_resource type="Texture2D" uid="uid://cd7kiv1qmjwtj" path="res://outputs/my_girl_000.png" id="1_5vw27"]
 [ext_resource type="Texture2D" uid="uid://dptmd8k2o7jf3" path="res://outputs/my_girl_001.png" id="2_kek77"]
@@ -38,6 +38,25 @@
 [ext_resource type="Texture2D" uid="uid://bscq4uw1tdumf" path="res://outputs/my_girl_035.png" id="36_0cp0l"]
 [ext_resource type="Texture2D" uid="uid://ba7kdw15m3f3a" path="res://outputs/my_girl_036.png" id="37_d2t1y"]
 [ext_resource type="AudioStream" uid="uid://d3fhym6chnpe7" path="res://bgm/Silent Ocean Waves 欢快版本.ogg" id="38_b1qrp"]
+[ext_resource type="Texture2D" uid="uid://bnr2yf5uysla5" path="res://outputs/my_girl_037.png" id="38_wnkbs"]
+[ext_resource type="Texture2D" uid="uid://c0f3nym1sf587" path="res://outputs/my_girl_038.png" id="39_f6a44"]
+[ext_resource type="Texture2D" uid="uid://bpexw2as8qfcf" path="res://outputs/my_girl_039.png" id="40_0cbny"]
+[ext_resource type="Texture2D" uid="uid://btlj7in5i68mr" path="res://outputs/my_girl_040.png" id="41_hrvbo"]
+[ext_resource type="Texture2D" uid="uid://8pc3bne7fw6w" path="res://outputs/my_girl_041.png" id="42_uypp3"]
+[ext_resource type="Texture2D" uid="uid://rmc7fmnvrlf0" path="res://outputs/my_girl_042.png" id="43_blkrb"]
+[ext_resource type="Texture2D" uid="uid://cfurfnvkf0bep" path="res://outputs/my_girl_043.png" id="44_abqjc"]
+[ext_resource type="Texture2D" uid="uid://c05sgaevy1bai" path="res://outputs/my_girl_044.png" id="45_6iyjs"]
+[ext_resource type="Texture2D" uid="uid://dp8k8tqd6eiy2" path="res://outputs/my_girl_045.png" id="46_4w656"]
+[ext_resource type="Texture2D" uid="uid://d1h1t5seh1h6e" path="res://outputs/my_girl_046.png" id="47_rnkwl"]
+[ext_resource type="Texture2D" uid="uid://karwskg81o71" path="res://outputs/my_girl_047.png" id="48_vke2r"]
+[ext_resource type="Texture2D" uid="uid://cswev2x465qx7" path="res://outputs/my_girl_048.png" id="49_uit24"]
+[ext_resource type="Texture2D" uid="uid://cr3cdqx2nbdsu" path="res://outputs/my_girl_049.png" id="50_ruth0"]
+[ext_resource type="Texture2D" uid="uid://82am8ooetujv" path="res://outputs/my_girl_050.png" id="51_rm4vd"]
+[ext_resource type="Texture2D" uid="uid://jt6w0dwrcjx" path="res://outputs/my_girl_051.png" id="52_pjyto"]
+[ext_resource type="Texture2D" uid="uid://db54hqjlxwug5" path="res://outputs/my_girl_052.png" id="53_sm6fg"]
+[ext_resource type="Texture2D" uid="uid://cg4l2o2ie7j5o" path="res://outputs/my_girl_053.png" id="54_b17eg"]
+[ext_resource type="Texture2D" uid="uid://bb3edmei7x0rh" path="res://outputs/my_girl_054.png" id="55_ntx8l"]
+[ext_resource type="Texture2D" uid="uid://d3237kskblr82" path="res://outputs/my_girl_055.png" id="56_uatky"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_2cqfq"]
 animations = [{
@@ -154,6 +173,120 @@ animations = [{
 "texture": ExtResource("37_d2t1y")
 }, {
 "duration": 1.0,
+"texture": ExtResource("38_wnkbs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_f6a44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_0cbny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_hrvbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_uypp3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_blkrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_abqjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_6iyjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_4w656")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_rnkwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_vke2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_uit24")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_ruth0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_rm4vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_pjyto")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_sm6fg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_b17eg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_ntx8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_uatky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("56_uatky")
+}, {
+"duration": 1.0,
+"texture": ExtResource("55_ntx8l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("54_b17eg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("53_sm6fg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("52_pjyto")
+}, {
+"duration": 1.0,
+"texture": ExtResource("51_rm4vd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("50_ruth0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("49_uit24")
+}, {
+"duration": 1.0,
+"texture": ExtResource("48_vke2r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("47_rnkwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("46_4w656")
+}, {
+"duration": 1.0,
+"texture": ExtResource("45_6iyjs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("44_abqjc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("43_blkrb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("42_uypp3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("41_hrvbo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("40_0cbny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("39_f6a44")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_wnkbs")
+}, {
+"duration": 1.0,
 "texture": ExtResource("37_d2t1y")
 }, {
 "duration": 1.0,
@@ -260,10 +393,13 @@ animations = [{
 }, {
 "duration": 1.0,
 "texture": ExtResource("2_kek77")
+}, {
+"duration": 1.0,
+"texture": ExtResource("1_5vw27")
 }],
 "loop": true,
 "name": &"default",
-"speed": 18.0
+"speed": 22.0
 }]
 
 [node name="Node2D" type="Node2D"]
@@ -273,7 +409,7 @@ position = Vector2(1050, 347)
 scale = Vector2(0.300426, 0.300426)
 sprite_frames = SubResource("SpriteFrames_2cqfq")
 autoplay = "default"
-frame_progress = 0.109272
+frame_progress = 0.417338
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("38_b1qrp")
