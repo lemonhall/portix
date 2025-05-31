@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d3fhym6chnpe7"
+path="res://.godot/imported/Silent Ocean Waves 欢快版本.ogg-8ac0ce8976508a8670a0854504ed3c9b.oggvorbisstr"
+
+[deps]
+
+source_file="res://bgm/Silent Ocean Waves 欢快版本.ogg"
+dest_files=["res://.godot/imported/Silent Ocean Waves 欢快版本.ogg-8ac0ce8976508a8670a0854504ed3c9b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
